@@ -1,0 +1,15 @@
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\obj\Debug\net6.0\EmpMgmt.csproj.AssemblyReference.cache
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\obj\Debug\net6.0\EmpMgmt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\obj\Debug\net6.0\EmpMgmt.AssemblyInfoInputs.cache
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\obj\Debug\net6.0\EmpMgmt.AssemblyInfo.cs
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\obj\Debug\net6.0\EmpMgmt.csproj.CoreCompileInputs.cache
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\bin\Debug\net6.0\EmpMgmt.exe
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\bin\Debug\net6.0\EmpMgmt.deps.json
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\bin\Debug\net6.0\EmpMgmt.runtimeconfig.json
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\bin\Debug\net6.0\EmpMgmt.dll
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\bin\Debug\net6.0\EmpMgmt.pdb
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\obj\Debug\net6.0\EmpMgmt.dll
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\obj\Debug\net6.0\refint\EmpMgmt.dll
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\obj\Debug\net6.0\EmpMgmt.pdb
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\obj\Debug\net6.0\EmpMgmt.genruntimeconfig.cache
+C:\Users\ULTRA\Desktop\net\EmpMgmt\EmpMgmt\obj\Debug\net6.0\ref\EmpMgmt.dll
